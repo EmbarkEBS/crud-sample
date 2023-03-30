@@ -172,7 +172,7 @@ if(isset($_GET['delid']))
 					<div class="table-title">
 						<div class="row">
 							<div class="col-sm-5">
-					<h2>User <b>Management</b></h2>
+					<h2>User List</h2>
 
 							</div>
 							<div class="col-sm-7" align="right">
